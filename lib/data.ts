@@ -4,7 +4,7 @@ export const personalInfo = {
     tagline: "Building AI-driven health & productivity systems with impact.",
     email: "nsgxi43@gmail.com",
     phone: "9880526069",
-    linkedin: "https://linkedin.com/in/nishanth-s-gowda",
+    linkedin: "https://www.linkedin.com/in/nishanth-s-gowda-0a6710289/",
     github: "https://github.com/nsgxi43",
     about: "Final-year Computer Science Engineering student at Amrita Vishwa Vidyapeetham. I am a creative technologist passionate about AI, healthtech, and scalable systems. My work focuses on multimodal AI, embedded health systems, and cross-platform applications that solve real-world problems. I build things that matter, from AI chatbots detecting emotional distress to specialized hardware for medical diagnostics.",
 };
